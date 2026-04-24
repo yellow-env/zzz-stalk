@@ -1,0 +1,14 @@
+{
+  "name": "zzz-stalk",
+  "version": "1.0.0",
+  "description": "Zenless Zone Zero profile scraper for Enka.Network",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["zzz", "zenless-zone-zero", "enka", "scraper"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
